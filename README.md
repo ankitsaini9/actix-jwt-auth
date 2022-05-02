@@ -1,4 +1,4 @@
-# Welcome to Blogme
+# Welcome to jwt-auth
 
 # About
 
